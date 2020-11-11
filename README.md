@@ -2,7 +2,7 @@
 
 ## I'm a French Student and Developer
 
-- I'm currently working on a Discord bot and a flutter mobile app
+- I'm currently working on a Discord bot, a flutter mobile app and a rust system app
 - I'm currently learning rust and flutter
 - I'm currently looking to collaborate with anyone who want to share his passions with me
 - 2020 Goals: Start contributing on OpenSource projects
